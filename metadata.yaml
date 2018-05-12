@@ -1,0 +1,30 @@
+_repo: Remodeled-Farmhouses_33955
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Northend, Mary Harrod
+    alias: Northend, Mary H.
+    birthdate: 1850
+    gutenberg_agent_id: '36664'
+    url: http://www.gutenberg.org/2009/agents/36664
+description: ''
+gutenberg_issued: '2010-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33955'
+  lccn: '15022278'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'NA'
+- !lcsh 'Architecture, Domestic -- United States'
+- !lcsh 'Interior decoration'
+- !lcsh 'Farmhouses -- United States'
+- !lcsh 'Decoration and ornament, Rustic -- United States'
+title: Remodeled Farmhouses
+url: http://www.gutenberg.org/ebooks/33955
